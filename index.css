@@ -1,0 +1,11 @@
+.center{ display: block; margin-left: auto; margin-right: auto;}
+.text{ padding-left: 15%; padding-right: 20%;}
+.navbar{background-color:#f6f9fa; color: #5e6b72;}
+.navbar li{float: left; list-style: none; margin: 13px 20px; }
+.navbar ul{overflow: auto;}
+.navbar li a{text-decoration: none; padding: 3px 3px;}
+.navbar li a:hover{background-color: #5e6b72;}
+.logo{float: left; margin-top: auto; padding: auto;}
+.img{position: fixed; height: 31px;left: 0px; width: 250px;}
+.auth{padding-left: 15%;}
+.auth a{text-decoration: none;}
